@@ -1,4 +1,4 @@
-# cooper
+![cooper logo](logo.png)
 
 Create AI agents with language models + tools.
 
